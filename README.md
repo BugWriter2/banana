@@ -1,2 +1,2 @@
 # banana
-bash scripts learning notes
+progamming except python learning notes
