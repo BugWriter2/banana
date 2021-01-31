@@ -1,2 +1,2 @@
 # banana
-progamming except python learning notes
+programming except python learning notes
